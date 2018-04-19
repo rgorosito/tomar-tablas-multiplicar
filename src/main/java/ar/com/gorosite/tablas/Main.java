@@ -19,7 +19,7 @@ public class Main {
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
 
 			cuantas = pideNumeroNatural("¿Cuantas cuentas?", br);
-			int hastaQueNumero = pideNumeroNatural("¿HastaQué número?", br);
+			int hastaQueNumero = pideNumeroNatural("¿Hasta qué número?", br);
 			
 			System.out.println("Ok... comenzamos...\n");
 			
