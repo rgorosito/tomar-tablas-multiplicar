@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TomarTablas
+Comment=Tomar Tablas de Multiplicar
+Icon=/usr/share/tomartablas/multiplicar.svg
+Exec=java -jar /usr/share/tomartablas/tomar-tablas-de-multiplicar-0.0.1-SNAPSHOT.jar
+Terminal=true
+
